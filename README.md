@@ -1,0 +1,80 @@
+# Notes
+
+个人技术学习笔记，欢迎批评指正。
+
+# 目录
+
+- **01-计算机基础**
+  - **rust**
+    - [rustlings.md](01-计算机基础/rust/rustlings.md)
+  - **图形学**
+    - [FillingAlgorithm.md](01-计算机基础/图形学/FillingAlgorithm.md)
+  - **操作系统**
+    - [Linux.md](01-计算机基础/操作系统/Linux.md)
+    - [lab4.md](01-计算机基础/操作系统/lab4.md)
+    - [lab5.md](01-计算机基础/操作系统/lab5.md)
+    - [lab6.md](01-计算机基础/操作系统/lab6.md)
+    - [双系统体验.md](01-计算机基础/操作系统/双系统体验.md)
+    - [死锁.md](01-计算机基础/操作系统/死锁.md)
+    - [进程调度算法.md](01-计算机基础/操作系统/进程调度算法.md)
+  - **汇编**
+    - [汇编.md](01-计算机基础/汇编/汇编.md)
+  - **组成原理**
+    - [组成原理与汇编.md](01-计算机基础/组成原理/组成原理与汇编.md)
+  - **计算机体系结构**
+    - [lab1.md](01-计算机基础/计算机体系结构/lab1.md)
+    - [lab2.md](01-计算机基础/计算机体系结构/lab2.md)
+    - [lab3.md](01-计算机基础/计算机体系结构/lab3.md)
+    - [lab4.md](01-计算机基础/计算机体系结构/lab4.md)
+    - [lab5.md](01-计算机基础/计算机体系结构/lab5.md)
+    - [lab6.md](01-计算机基础/计算机体系结构/lab6.md)
+- **02-算法与数据结构**
+  - [背包.md](02-算法与数据结构/背包.md)
+- **03-后端开发**
+  - **Java**
+    - [cas.md](03-后端开发/Java/cas.md)
+    - [juc.md](03-后端开发/Java/juc.md)
+    - [map.md](03-后端开发/Java/map.md)
+    - [线程池.md](03-后端开发/Java/线程池.md)
+  - [README.md](03-后端开发/README.md)
+  - **Redission**
+    - [lua.md](03-后端开发/Redission/lua.md)
+    - [org.redisson.RedissoinRateLimiter.md](03-后端开发/Redission/org.redisson.RedissoinRateLimiter.md)
+    - [布隆过滤器.md](03-后端开发/Redission/布隆过滤器.md)
+    - [搬运.md](03-后端开发/Redission/搬运.md)
+  - **mysql**
+    - [mvcc.md](03-后端开发/mysql/mvcc.md)
+    - [三大日志.md](03-后端开发/mysql/三大日志.md)
+    - [隔离级别.md](03-后端开发/mysql/隔离级别.md)
+  - **tomcat**
+    - [1.Servlet规范和Servlet容器.md](03-后端开发/tomcat/1.Servlet规范和Servlet容器.md)
+    - [2.运行一个Servlet.md](03-后端开发/tomcat/2.运行一个Servlet.md)
+    - [3.tomcat架构.md](03-后端开发/tomcat/3.tomcat架构.md)
+    - [4.tomcat中的池技术：线程池_对象池.md](03-后端开发/tomcat/4.tomcat中的池技术：线程池_对象池.md)
+    - [5.spring-boot如何处理tomcat.md](03-后端开发/tomcat/5.spring-boot如何处理tomcat.md)
+    - [README.md](03-后端开发/tomcat/README.md)
+  - [分布式ID.md](03-后端开发/分布式ID.md)
+  - **缓存**
+    - [缓存.md](03-后端开发/缓存/缓存.md)
+  - **设计模式**
+    - [Java设计模式.md](03-后端开发/设计模式/Java设计模式.md)
+    - [懒加载.md](03-后端开发/设计模式/懒加载.md)
+- **04-工程实践**
+  - **Lombok**
+    - [Lombok.md](04-工程实践/Lombok/Lombok.md)
+  - [README.md](04-工程实践/README.md)
+  - **ripgrep**
+    - [ripgrep用法.md](04-工程实践/ripgrep/ripgrep用法.md)
+  - **spring**
+    - [spring.md](04-工程实践/spring/spring.md)
+  - **并发**
+    - [future.get()阻塞解决方案.md](04-工程实践/并发/future.get()阻塞解决方案.md)
+  - [设计模式之美.md](04-工程实践/设计模式之美.md)
+- **05-AI与智能系统**
+  - **ollama**
+    - [抓本地ollama.md](05-AI与智能系统/ollama/抓本地ollama.md)
+  - **大模型应用**
+    - [大模型应用.md](05-AI与智能系统/大模型应用/大模型应用.md)
+- **06-搜索**
+  - [初识搜索.md](06-搜索/初识搜索.md)
+- [README.md](README.md)
