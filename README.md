@@ -69,7 +69,8 @@
     - [spring.md](04-工程实践/spring/spring.md)
   - **并发**
     - [future.get()阻塞解决方案.md](04-工程实践/并发/future.get()阻塞解决方案.md)
-  - [设计模式之美.md](04-工程实践/设计模式之美.md)
+  - **设计模式之美**
+    - [设计模式之美.md](04-工程实践/设计模式之美/设计模式之美.md)
 - **05-AI与智能系统**
   - **ollama**
     - [抓本地ollama.md](05-AI与智能系统/ollama/抓本地ollama.md)
