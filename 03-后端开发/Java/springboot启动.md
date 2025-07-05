@@ -1,4 +1,4 @@
-
+看一下SpringBoot启动流程，有助于理解Bean等...
 ```java
 
 import org.springframework.boot.SpringApplication;
