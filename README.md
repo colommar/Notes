@@ -1,11 +1,7 @@
 # Notes
 
 个人技术学习笔记，欢迎批评指正。
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=colommar-Notes)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcolommar%2FNotes&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+![访客数](https://visitor-badge.laobi.icu/badge?page_id=colommar.Notes)
 
 # 目录
 
